@@ -1,0 +1,14 @@
+{
+  "name": "jquery-validation-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/js/jquery.validationEngine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jquery.validationEngine-en": "file:js/languages"
+  },
+  "author": "",
+  "license": "ISC"
+}
